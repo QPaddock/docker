@@ -1,7 +1,13 @@
-sh 01.sh
-sh 02.sh
-sh 03.sh
-sh 04.sh
-sh 05.sh
-sh 06.sh
-sh 07.sh
+sh 01
+sh 02
+eval $(cat 03)
+sh 04
+sh 05
+sh 06
+sh 07
+sh 08
+sh 09
+sh 10
+sh 11
+sh 12
+sh 13

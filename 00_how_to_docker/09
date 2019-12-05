@@ -1,0 +1,4 @@
+docker run -tdi --name debian_con debian /bin/sh
+docker exec debian_con apt-get update
+docker exec debian_con apt-get -y install git
+docker exec debian_con apt-get -y install gcc
