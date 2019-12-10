@@ -1,2 +1,0 @@
-docker-machine env Char
-eval $(docker-machine env Char)
